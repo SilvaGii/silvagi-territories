@@ -11,7 +11,3 @@
   - Command ‘territories’ to see every list of territories aswell as their statuses. (is on cooldown, is being taken right now?)
   - Gangs, jobs and their blip colors are configurable in config.
   - Stash for every territory. (ox_inventory)
-
-__Not planning on releasing anything for QB - you're on your own__.
-
-Preview: [Video](https://streamable.com/ephnae), [Resource Monitor](https://imgur.com/89Rre8n)
